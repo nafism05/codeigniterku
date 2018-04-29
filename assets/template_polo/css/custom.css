@@ -1,0 +1,28 @@
+/* Add your custom css styles */
+#post-meta1 div{
+	border-right: none;
+	margin-right: 0px;
+	padding-top: 0px;
+	padding-right: 10px;
+}
+
+#post-meta1{
+	margin-bottom: 0px;
+}
+
+#post-item1{
+	padding-bottom: 0px;
+	margin-bottom: 10px;
+}
+
+#judul-post-index{
+	margin-bottom: 0px;
+}
+
+.sortdate{
+	height:40px;
+}
+
+.btn1{
+	padding:8px 10px;
+}
